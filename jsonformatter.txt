@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 12722,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Ferra.ru"
+      },
+      "author": "Ингела Воробьева",
+      "title": "Каршеринг электромобилей планируют запустить на Алтае",
+      "description": "Глава Республики Алтай Олег Хорохордин в беседе с ТАСС рассказал, что для тестирования в регион поступят электромобили \"Автоваза\" и E-Neva, которые в дальнейшем будут сдаваться в каршеринг.",
+      "url": "https://www.ferra.ru/news/v-rossii/karshering-elektromobilei-planiruyut-zapustit-na-altae-04-10-2023.htm",
+      "urlToImage": "https://www.ferra.ru/imgs/2023/10/04/18/6163683/29c3a8753a682ca45f9271a62e47f86a7a9893a9.png",
+      "publishedAt": "2023-10-04T18:45:11Z",
+      "content": ", , \" Tesla\" - E-Neva». , « , - ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Tesla Stock Is Surging. Thank the EV Bears",
+      "description": "Tesla stock is up a lot in Wednesday trading. There isn’t any big news, beyond a disappointing delivery number that arrived Monday morning. So investors are asking:",
+      "url": "https://biztoc.com/x/bcaad508f0fb9534",
+      "urlToImage": "https://c.biztoc.com/p/bcaad508f0fb9534/s.webp",
+      "publishedAt": "2023-10-04T18:38:05Z",
+      "content": "Tesla stock is up a lot in Wednesday trading. There isnt any big news, beyond a disappointing delivery number that arrived Monday morning. So investors are asking:\r\nThis story appeared on barrons.com… [+2 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Ford EV sales cross the 20K mark in Q3 on higher Mustang Mach-E demand - Electrek.co",
+      "description": "Ford EV sales cross the 20K mark in Q3 on higher Mustang Mach-E demandElectrek.co Ford pickup truck sales lead third-quarter growthCNBC Ford Edges GM on Electric-Vehicle Sales. But Neither Can Touch Tesla.Barron's Ford Maverick Sales Jump 83.4% in Q3 as Deliv…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171951685",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T18:34:30Z",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Tesla Flashes Aggressive Buy Signal As Bulls Shrug Off Bad News",
+      "description": "appeared to shake off any lingering investor concern over its third-quarter delivery miss earlier in the week, with TSLA shares powering above a key level, leading the S&P 500 Wednesday. With Tesla bulls betting on a fourth-quarter rebound in deliveries with …",
+      "url": "https://biztoc.com/x/f5491950bb74357e",
+      "urlToImage": "https://c.biztoc.com/p/f5491950bb74357e/og.webp",
+      "publishedAt": "2023-10-04T18:30:26Z",
+      "content": "appeared to shake off any lingering investor concern over its third-quarter delivery miss earlier in the week, with TSLA shares powering above a key level, leading the S&amp;P 500 Wednesday.With Tesl… [+277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Aswath Damodaran",
+      "title": "Market Bipolarity: Exuberance versus Exhaustion!",
+      "description": null,
+      "url": "https://www.blogger.com/comment.g?blogID=8152901575140311047&postID=3262703955595375027&bpli=1",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T18:29:00Z",
+      "content": "As we enter the last quarter of 2023, it has been a roller coaster of a year. We started the year with significant uncertainty about whether the surge in inflation seen in 2022 would persist as well … [+15127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Rikka Altland",
+      "title": "Juiced e-bikes start from $899 lows, Aventon Pace 500.2 now $600 off, more",
+      "description": "Juiced Bikes is offering the best prices of the year on a pair of its popular e-bikes when you opt for the yellow colorways. Both the RipCurrent S Step-Through and RipRacer are getting in on the savings, now starting from $899. They’re joined by a 1-day sale …",
+      "url": "https://electrek.co/2023/10/04/juiced-e-bikes-start-from-899-lows-aventon-pace-500-2-now-600-off-more/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/juiced-yellow.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-04T18:17:30Z",
+      "content": "Juiced Bikes is offering the best prices of the year on a pair of its popular e-bikes when you opt for the yellow colorways. Both the RipCurrent S Step-Through and RipRacer are getting in on the savi… [+3905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Tesla Stock Is Surging. Thank the EV Bears",
+      "description": "Tesla stock is up a lot in Wednesday trading. There isn’t any big news, beyond a disappointing delivery number that arrived Monday morning. So investors are asking:",
+      "url": "https://biztoc.com/x/e2dbeb0cbd1c3102",
+      "urlToImage": "https://c.biztoc.com/p/e2dbeb0cbd1c3102/s.webp",
+      "publishedAt": "2023-10-04T18:16:29Z",
+      "content": "Tesla stock is up a lot in Wednesday trading. There isnt any big news, beyond a disappointing delivery number that arrived Monday morning. So investors are asking:\r\nThis story appeared on barrons.com… [+2 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Steve Hanley",
+      "title": "Another New England Offshore Wind PPA Cancelled",
+      "description": "Offshore wind projects in New England are being terminated as the cost of completing them has risen sharply this year.",
+      "url": "https://cleantechnica.com/2023/10/04/another-new-england-offshore-wind-ppa-cancelled/",
+      "urlToImage": "https://cleantechnica.com/files/2023/10/Block_Island_offshore_wind_farm_P6290638m.jpg",
+      "publishedAt": "2023-10-04T18:15:16Z",
+      "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nCleanTechnica has always been an ardent supporter of offshore wind. At a time when renewable energy is one of… [+8658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Global EV Charging Cable Market Analysis Report 2023-2030 - CCS1 Connector Demand to Get Impacted by Phase Off of CHAdeMO Connectors",
+      "description": "DUBLIN, Oct. 4, 2023 /PRNewswire/ -- The \"Global EV Charging Cable Market by Power Supply (AC and DC), Application (Private Charging and Public Charging), Length (2-5 Meters, 6-10 Meters, and >10 Meters), Shape, Mode, Charging Level, Connector Type, Cable Typ…",
+      "url": "https://www.prnewswire.com/news-releases/global-ev-charging-cable-market-analysis-report-2023-2030---ccs1-connector-demand-to-get-impacted-by-phase-off-of-chademo-connectors-301947471.html",
+      "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+      "publishedAt": "2023-10-04T18:15:00Z",
+      "content": "DUBLIN, Oct. 4, 2023 /PRNewswire/ -- The \"Global EV Charging Cable Market by Power Supply (AC and DC), Application (Private Charging and Public Charging), Length (2-5 Meters, 6-10 Meters, and &gt;10 … [+7905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Reuters",
+      "title": "Judge denies ex-Tesla worker’s bid for 3rd trial over race-bias lawsuit",
+      "description": "The judge upheld a $3.2 million verdict that a jury awarded to Diaz in April.",
+      "url": "https://nypost.com/2023/10/04/judge-denies-3rd-trial-in-ex-tesla-workers-race-bias-lawsuit/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/tesla-owen-diaz-verdict.jpg?quality=75&strip=all&1696426374&w=1024",
+      "publishedAt": "2023-10-04T18:14:44Z",
+      "content": "A California federal judge on Wednesday declined to order a third trial in a race discrimination lawsuit against Elon Musk’s Tesla, rejecting claims by a black former factory worker that the company’… [+985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cryptobriefing.com",
+      "title": "Elon Musk Believes Fiat Money is a Scam",
+      "description": "Elon Musk, founder and CEO of Tesla and SpaceX, recently reignited his criticism of fiat currencies by calling them an outright “scam” on Twitter. Responding to a tweet that asked about normalized scams, Musk simply replied “Fiat currency” to express his view…",
+      "url": "https://biztoc.com/x/1cf494a7fe051224",
+      "urlToImage": "https://c.biztoc.com/p/1cf494a7fe051224/s.webp",
+      "publishedAt": "2023-10-04T18:14:10Z",
+      "content": "Elon Musk, founder and CEO of Tesla and SpaceX, recently reignited his criticism of fiat currencies by calling them an outright scam on Twitter. Responding to a tweet that asked about normalized scam… [+284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Tesla Stock Is Surging. Thank the EV Bears.",
+      "description": "Shares of electric-vehicle maker Tesla are rallying Wednesday on no official news. It's likely bearish investors trying to manage their bets against Tesla stock.",
+      "url": "https://www.barrons.com/articles/tesla-stock-ev-bears-shorts-d786be62",
+      "urlToImage": "https://images.barrons.com/im-66826062/social",
+      "publishedAt": "2023-10-04T18:11:27Z",
+      "content": "Tesla\r\n stock is up a lot in Wednesday trading. There isnt any big news, beyond a disappointing delivery number that arrived Monday morning. So investors are asking: What gives? Tesla stock (ticker: … [+2571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Alisha Sachdev",
+      "title": "India can unlock $400 bn in auto exports by focusing on global competitiveness: Arthur D Little",
+      "description": "India is presently the fourth-largest automotive market in the world, valued at $250 billion",
+      "url": "https://www.livemint.com/industry/manufacturing/india-can-unlock-400-bn-in-auto-exports-by-focusing-on-global-competitiveness-arthur-d-little-11696442640720.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/04/1600x900/2-0-727658179-hyundai-0_1680326570264_1696442831835.jpg",
+      "publishedAt": "2023-10-04T18:11:24Z",
+      "content": "Indias automotive industry has the potential to generate an additional $400 billion in revenues by 2035, by focusing on enhancing global competitiveness, a report by consultancy, Arthur D Little, sai… [+2785 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Ellen O'Regan",
+      "title": "Pressure on global stocks eases with news of cooling US labour market",
+      "description": "In Dublin, a number of ISEQ heavy hitters saw gains on Wednesday, but the index still tracked an overall loss",
+      "url": "https://www.irishtimes.com/business/2023/10/04/pressure-on-global-stocks-eases-with-news-of-cooling-us-labour-market/",
+      "urlToImage": "https://www.irishtimes.com/resizer/ZgFV5Eklw07OcEb7tzeJahvt65A=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/A5VSF2XLCQP4O4PZOXWQRFQQU4.jpg",
+      "publishedAt": "2023-10-04T18:10:11Z",
+      "content": "A sell-off in the US bond market has hammered global stocks in recent days, amid concerns that the Federal Reserve will keep interest rates elevated longer than expected. However, this eased on Wedne… [+4375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Project that brings CarPlay to Tesla gets a major boost with improved performance, hardware bundle",
+      "description": "While Tesla itself has refused to adopt CarPlay over the years, there’s a thriving community of Tesla owners that have taken matters into their own hands. One of the leading projects here is called Tesla Android, an open-source operating system that brings Ca…",
+      "url": "https://9to5mac.com/2023/10/04/tesla-carplay-display-update/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/10/tesla-carplay-project.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-04T18:09:47Z",
+      "content": "While Tesla itself has refused to adopt CarPlay over the years, theres a thriving community of Tesla owners that have taken matters into their own hands. One of the leading projects here is called Te… [+2869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Judge denies re-trial in Tesla racial harassment case",
+      "description": "Judge denies re-trial in Tesla racial harassment case",
+      "url": "https://www.investing.com/news/stock-market-news/judge-denies-retrial-in-tesla-racial-harassment-case-432SI-3190523",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE771BJ_L.jpg",
+      "publishedAt": "2023-10-04T18:06:07Z",
+      "content": "U.S. District Judge William Orrick, on Wednesday ruled against ordering a third trial in a race discrimination lawsuit filed against Tesla (NASDAQ:TSLA).\r\nThe decision came in response to allegations… [+1049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Autobild.de"
+      },
+      "author": "AUTO BILD",
+      "title": "Die neue AUTO BILD ist da – mit diesen Themen!",
+      "description": "Kompakt und günstig: Toyota Corolla Cross Hybrid und Hyundai Kona Hybrid im Vergleichstest. Dazu: Opel Corsa – die aktuelle Generation im Gebraucht-Check. Aktion: Die 1000 besten Werkstätten.",
+      "url": "https://www.autobild.de/artikel/auto-bild-40-2023-1944688.html",
+      "urlToImage": "https://i.auto-bild.de/ir_img/8/3/6/0/3/8/AuBi22_21_001-001_Titel_Kopie_4-c660be61acc9a266.jpg?impolicy=og_images",
+      "publishedAt": "2023-10-04T18:00:00Z",
+      "content": "Design, Antrieb und Fahrwerk. Das sind die drei großen Bereiche, mit denen sich Autofachleute im Detail Stunden befassen können. Dann dreht sich alles um Sicken, Kanten, Spaltmaße und Verarbeitung be… [+3131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fark.com"
+      },
+      "author": null,
+      "title": "Not only are Rivian pickup trucks expensive to repair, they're losing $33K building each and every one. Tesla-like decontenting incoming [Facepalm]",
+      "description": "Not only are Rivian pickup trucks expensive to repair, they're losing $33K building each and every one. Tesla-like decontenting incoming",
+      "url": "https://www.fark.com/comments/13012662/Not-only-are-Rivian-pickup-trucks-expensive-to-repair-theyre-losing-$33K-building-each-every-one-Tesla-like-decontenting-incoming",
+      "urlToImage": "https://usrimg-full.fark.net/E/E2/fark_E22tg5CPEc9UuqjPBHPszFFhzNQ.png?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1696824000&Signature=3bzLCn1UyFZy81vU95UWNIFgPRM%3D",
+      "publishedAt": "2023-10-04T17:50:15Z",
+      "content": "Cyberluddite:Petit_Merdeux: Cyberluddite: The worst thing about Rivians is that they're fugly as hell.  For that price you think they could've added a bit of styling.\r\nYou're thinking of the Cybertru… [+622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "redmondpie.com"
+      },
+      "author": "Oliver Haslam",
+      "title": "Tesla Cybertruck’s New Interface Shown Off In New Video",
+      "description": "Tesla Cybertruck's new interface has just been shown off in a new video. Here are all the details on this.\nThe post Tesla Cybertruck’s New Interface Shown Off In New Video first appeared on Redmond Pie.",
+      "url": "https://www.redmondpie.com/tesla-cybertrucks-new-interface-shown-off-in-new-video/",
+      "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2023/10/tesla-cybertruck-interface.jpg",
+      "publishedAt": "2023-10-04T17:50:04Z",
+      "content": "The Tesla Cybertruck still isn’t quite ready for the world to buy but there are some out and about in the world. One of them has found itself the subject of a YouTube video in which someone got into … [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GoNintendo"
+      },
+      "author": "rawmeatcowboy",
+      "title": "Check out a new trailer for Slime 3K: Rise Against Despot",
+      "description": "Oozing with charm",
+      "url": "https://gonintendo.com/contents/26797-check-out-a-new-trailer-for-slime-3k-rise-against-despot",
+      "urlToImage": "https://gonintendo.com/attachments/image/36786/file/medium-d10e39b95bb3c4daf4e7ddd8ca2a01ff.jpg",
+      "publishedAt": "2023-10-04T17:50:00Z",
+      "content": "Slime 3K: Rise Against Despot, the rogue-lite battler starring a sentient slime monster hellbent on destruction from developer Konfa Games and publisher tinyBuild, is coming to Switch sometime later … [+1116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Michael Barnard",
+      "title": "Livable Cities Becoming A Culture War Issue Wasn’t On My 2023 Dystopian Bingo Card",
+      "description": "Giving people the freedom to choose to walk or ride their bikes has somehow become, in the bizarro world of UK right-wing politics, the removal of their right to drive wherever they damned well please.",
+      "url": "https://cleantechnica.com/2023/10/04/livable-cities-becoming-a-culture-war-issue-wasnt-on-my-2023-dystopian-bingo-card/",
+      "urlToImage": "https://cleantechnica.com/files/2023/10/michaelbarnard_UK_politician_conspiracy_theory_car_5075b5fa-3ff4-40df-9419-8556c26d9315-800x400.png",
+      "publishedAt": "2023-10-04T17:45:13Z",
+      "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nImagine if I told you that people being able to walk and bike to most of the things they need to do day-to-da… [+7861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "aol.com",
+      "title": "Softbank’s CEO says you’ll end up like a mindless goldfish if you don’t get on board with A.I",
+      "description": "The kind of superintelligent A.I. that has prompted doomsday warnings from some of the world’s most prominent tech minds will be with us within a decade, according to SoftBank’s founder and CEO—who compared those resisting the technology to “goldfish.” Speaki…",
+      "url": "https://biztoc.com/x/9e4c9be5c22fc451",
+      "urlToImage": "https://c.biztoc.com/p/9e4c9be5c22fc451/s.webp",
+      "publishedAt": "2023-10-04T17:44:11Z",
+      "content": "The kind of superintelligent A.I. that has prompted doomsday warnings from some of the worlds most prominent tech minds will be with us within a decade, according to SoftBanks founder and CEOwho comp… [+276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Knowyourmeme.com"
+      },
+      "author": "Owen",
+      "title": "Nikola Tesla and Albert Einstein",
+      "description": "Read More",
+      "url": "https://knowyourmeme.com/memes/nikola-tesla-and-albert-einstein",
+      "urlToImage": "https://i.kym-cdn.com/entries/icons/original/000/046/763/tesla_einstein.jpg",
+      "publishedAt": "2023-10-04T17:42:29Z",
+      "content": "About\r\nNikola Tesla and Albert Einstein refers to a cartoon image of Nikola Tesla and Albert Einstein standing back-to-back while wielding electricity and the universe in their hands. The image becam… [+378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lesswrong.com"
+      },
+      "author": "aogara",
+      "title": "AISN #23:\nNew OpenAI Models, News from Anthropic, and Representation Engineering",
+      "description": "Published on October 4, 2023 5:37 PM GMTWelcome to the AI Safety Newsletter by the Center for AI Safety. We discuss developments in AI and AI safety. No technical background required.Subscribe here to receive future versions.OpenAI releases GPT-4 with Vision …",
+      "url": "https://www.lesswrong.com/posts/oAu6nJgAzN5LJZsmg/aisn-23-new-openai-models-news-from-anthropic-and",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faacb468f-db1b-4991-b3f2-5d9788633abd_1818x952.png",
+      "publishedAt": "2023-10-04T17:37:23Z",
+      "content": "Welcome to the AI Safety Newsletter by the Center for AI Safety. We discuss developments in AI and AI safety. No technical background required.\r\nSubscribe here to receive future versions.\r\nOpenAI rel… [+7516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "schwit1",
+      "title": "World's Largest EV Charging Station Powered By Diesel Generators",
+      "description": "&ldquo;The Harris Ranch Tesla Supercharger station is an impressive beast. With 98 charging bays, the facility in Coalinga, California, is the largest charging station in the world. But to provide that kind of power takes something solar can&rsquo;t provide &…",
+      "url": "https://slashdot.org/submission/17299305/worlds-largest-ev-charging-station-powered-by-diesel-generators",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T17:33:41Z",
+      "content": "... though his invention worked superbly -- his theory was a crock of sewage\r\nfrom beginning to end.\r\n-- Vernor Vinge, \"The Peace War\""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Samuel Spencer",
+      "title": "‘I’ll Kill You’: Celebrity Chef Arrested After Allegedly Attacking Man With Bat During ‘Road Rage Incident,’ Police Say",
+      "description": "Police arrested a chef for allegedly attacking someone in Boca Raton following a &quot;road rage&quot; incident, according to the affidavit cited by a local outlet.",
+      "url": "https://dailycaller.com/2023/10/04/miami-ralph-pagano-alleged-attack-arrest/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/10/GettyImages-512381262-scaled-e1696437603195.jpg",
+      "publishedAt": "2023-10-04T17:33:30Z",
+      "content": "Police arrested a celebrity chef for allegedly attacking someone in Boca Raton, Florida, following a “road rage incident” in March, according to the affidavit cited by a local outlet.\r\nRalph Pagano, … [+2012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "No new trial in ex-Tesla factory worker's racial harassment case, judge rules",
+      "description": "No new trial in ex-Tesla factory worker's racial harassment case, judge rules",
+      "url": "https://www.investing.com/news/stock-market-news/no-new-trial-in-extesla-factory-workers-racial-harassment-case-judge-rules-3190491",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEE5514Z_L.jpg",
+      "publishedAt": "2023-10-04T17:32:30Z",
+      "content": "By Daniel Wiessner\r\n(Reuters) -A California federal judge on Wednesday declined to order a third trial in a race discrimination lawsuit against Tesla (NASDAQ:TSLA), rejecting claims by a Black former… [+864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HackRead"
+      },
+      "author": "Deeba Ahmed",
+      "title": "Stream-Jacking: Malicious YouTube Livestreams Aid Malware, Crypto Scams",
+      "description": "By Deeba Ahmed\nBitdefender reports a surge in Stream-Jacking attacks on popular YouTube channels, distributing crypto scams and information stealers such as Redline.\nThis is a post from HackRead.com Read the original post: Stream-Jacking: Malicious YouTube Li…",
+      "url": "https://www.hackread.com/stream-jacking-youtube-livestream-crypto-scams/",
+      "urlToImage": "https://www.hackread.com/wp-content/uploads/2023/10/stream-jacking-youtube-livestream-malware-crypto-scams-1.jpg",
+      "publishedAt": "2023-10-04T17:31:12Z",
+      "content": "Researchers observed that Tesla was the most targeted brand in the Stream-Jacking campaign, and these scams continue to increase on YouTube.\r\n<ul><li>New research from Bitdefender has revealed shocki… [+6382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "No new trial in ex-Tesla factory worker's racial harassment case, judge rules",
+      "description": "Motorists drive past Tesla's primary vehicle factory in Fremont, California, U.S. May 12, 2020. REUTERS/Stephen Lam/File Photo Acquire Licensing Rights Oct 4 (Reuters) - A California federal judge on Wednesday declined to order a third trial in a race discrim…",
+      "url": "https://biztoc.com/x/9581ab443d0332bf",
+      "urlToImage": "https://c.biztoc.com/p/9581ab443d0332bf/s.webp",
+      "publishedAt": "2023-10-04T17:28:06Z",
+      "content": "Motorists drive past Tesla's primary vehicle factory in Fremont, California, U.S. May 12, 2020. REUTERS/Stephen Lam/File Photo Acquire Licensing RightsOct 4 (Reuters) - A California federal judge on … [+259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "Reuters",
+      "title": "No new trial in ex-Tesla factory worker's racial harassment case, judge rules",
+      "description": "(marketscreener.com) A California federal judge on\nWednesday declined to order a third trial in a race\ndiscrimination lawsuit against Tesla, rejecting claims\nby a Black former factory worker that the company's lawyers\nengaged in misconduct.\n U.S. District Jud…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/No-new-trial-in-ex-Tesla-factory-worker-s-racial-harassment-case-judge-rules-44984534/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-10-04T17:21:24Z",
+      "content": "Oct 4 (Reuters) - A California federal judge on\r\nWednesday declined to order a third trial in a race\r\ndiscrimination lawsuit against Tesla, rejecting claims\r\nby a Black former factory worker that the… [+944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Peter Johnson",
+      "title": "Toyota is developing a small bZ electric crossover with… Suzuki?",
+      "description": "The smallest electric vehicle under Toyota’s “Beyond Zero,” or bZ lineup, is under development. The small bZ electric crossover is reportedly being prepped in collaboration with Suzuki. \n more…\nThe post Toyota is developing a small bZ electric crossover with……",
+      "url": "https://electrek.co/2023/10/04/toyota-developing-small-bz-electric-crossover-suzuki/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Toyota-small-electric-crossover-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-04T17:20:37Z",
+      "content": "The smallest electric vehicle under Toyotas Beyond Zero, or bZ lineup, is under development. The small bZ electric crossover is reportedly being prepped in collaboration with Suzuki. \r\nToyota is fina… [+2650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Peter Johnson",
+      "title": "Toyota is developing a small bZ electric crossover with… Suzuki?",
+      "description": "The smallest electric vehicle under Toyota’s “Beyond Zero,” or bZ lineup, is under development. The small bZ electric crossover is reportedly being prepped in collaboration with Suzuki. \n more…\nThe post Toyota is developing a small bZ electric crossover with……",
+      "url": "https://electrek.co/2023/10/04/toyota-small-bz-electric-crossover/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Toyota-small-electric-crossover-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-04T17:20:37Z",
+      "content": "The smallest electric vehicle under Toyotas Beyond Zero, or bZ lineup, is under development. The small bZ electric crossover is reportedly being prepped in collaboration with Suzuki. \r\nToyota is fina… [+2650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Martha McHardy and Holly Hales",
+      "title": "Elon Musk is ‘going full MAGA’, famed author says",
+      "description": "In a post on X, Mr Musk appeared to express sympathies towards Donald Trump",
+      "url": "https://www.the-independent.com/news/world/americas/us-politics/elon-musk-francis-fukuyama-donald-trump-maga-b2423968.html",
+      "urlToImage": "https://static.independent.co.uk/2023/10/02/16/15-bb84c6ae89f24c528de6bfb2d45ac3b2.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-10-04T17:15:58Z",
+      "content": "Academic Francis Fukuyama has accused Elon Musk of going full MAGA after the tech mogul shared a video of Tucker Carlson attacking the civil fraud case against Donald Trump.\r\nIn a post on X, Mr Musk … [+2794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Ford's third-quarter US auto sales rise on pickup, crossover SUV demand - Yahoo Finance",
+      "description": "Ford's third-quarter US auto sales rise on pickup, crossover SUV demandYahoo Finance Ford pickup truck sales lead third-quarter growthCNBC Ford Edges GM on Electric-Vehicle Sales. But Neither Can Touch Tesla.Barron's GM reports 3rd-quarter gain of 21% with pi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171951303",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T17:13:37Z",
+      "content": "... though his invention worked superbly -- his theory was a crock of sewage\r\nfrom beginning to end.\r\n-- Vernor Vinge, \"The Peace War\""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Patronlardunyasi.com"
+      },
+      "author": "Patronlar Dünyası",
+      "title": "Otomobil savaşları...Çin, ABD'yi solluyor",
+      "description": "Elektrikli otomobil pazarının lideri ABD'li Tesla bu liderliği Çinli BYD’ye kaptırmaya çok yakın. Buffett’ın da yatırım desteğini alan BYD ürettiği ucuz elektrikli otomobillerle şimdiden Çin piyasasının hakimi oldu",
+      "url": "https://www.patronlardunyasi.com/haber/otomobil-savaslari-cin-abd-yi-solluyor/291757",
+      "urlToImage": "http://www.patronlardunyasi.com/haber_resim/otomobil-savaslari-cin-abd-yi-solluyor-291757.jpg",
+      "publishedAt": "2023-10-04T17:11:51Z",
+      "content": "Tesla’nn hayal krkl yaratan üçüncü çeyrek teslimat rakamlar en yakn rakibi için frsat oldu. Üstelik Elon Musk’n elektrikli araç devinin sektördeki en yakn takibi Warren Buffett’n yatrm firmas Berkshi… [+2368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "Reuters",
+      "title": "No new trial in ex-Tesla factory worker's racial harassment case, judge rules",
+      "description": "(marketscreener.com) A California federal judge on Wednesday declined to order a third trial in a race discrimination lawsuit against Tesla Inc, rejecting claims by a Black former factory worker that the company's lawyers engaged in misconduct. https://www.ma…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/No-new-trial-in-ex-Tesla-factory-worker-s-racial-harassment-case-judge-rules-44984498/",
+      "urlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-29T145640Z_1_LYNXMPEJ7S0NE_RTROPTP_3_USA-CONGRESS-REPUBLICANS.JPG",
+      "publishedAt": "2023-10-04T17:11:44Z",
+      "content": "October 04, 2023 at 01:11 pm EDT\r\n(Reuters) - A California federal judge on Wednesday declined to order a third trial in a race discrimination lawsuit against Tesla Inc, rejecting claims by a Black f… [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "NRDC",
+      "title": "$4.3 Billion on the Table; Huge Benefits to Public Health & Wealth Lie Within Reach",
+      "description": "We have a once-in-a-generation opportunity to invest in our homes and buildings, to win big on public health and reduce both housing energy costs and climate change pollution. Despite the huge benefits, the path to investing in existing buildings has been ful…",
+      "url": "https://cleantechnica.com/2023/10/04/4-3-billion-on-the-table-huge-benefits-to-public-health-wealth-lie-within-reach/",
+      "urlToImage": "http://cleantechnica.com/files/2019/07/san-franciso-houses-residential-homes-hills-downtown-buildings-legoland-streets-cars-KYLE-1-e1620484803839.jpg",
+      "publishedAt": "2023-10-04T17:11:22Z",
+      "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nWe have a once-in-a-generation opportunity to invest in our homes and buildings, to win big on public health … [+5798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "Reuters",
+      "title": "US JUDGE UPHOLDS $3.75 MLN JURY VERDICT IN TESLA INC WORKER'S RA…",
+      "description": "(marketscreener.com) \n US JUDGE UPHOLDS $3.75 MLN JURY VERDICT IN TESLA INC WORKER'S RACE BIAS CASE\n https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/US-JUDGE-UPHOLDS-3-75-MLN-JURY-VERDICT-IN-TESLA-INC-WORKER-S-RA-8230-44984429/?utm_medium=RS…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/US-JUDGE-UPHOLDS-3-75-MLN-JURY-VERDICT-IN-TESLA-INC-WORKER-S-RA-8230-44984429/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-04T17:04:57Z",
+      "content": "Tesla: fewer cars delivered in the third quarter\r\nOctober 02, 2023 at 10:48 am EDT"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vnexpress.net"
+      },
+      "author": "VnExpress",
+      "title": "BYD - từ hãng pin thành mối đe dọa lớn nhất của Tesla",
+      "description": "Vài năm trước, hãng xe điện Trung Quốc BYD chỉ đặt mục tiêu tồn tại, nhưng giờ họ lại đang đe dọa ngôi vương của Tesla.",
+      "url": "https://vnexpress.net/byd-tu-hang-pin-thanh-moi-de-doa-lon-nhat-cua-tesla-4660761.html",
+      "urlToImage": "https://vcdn1-kinhdoanh.vnecdn.net/2023/10/04/byd-set-1696416896-5896-1696416955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BpS8t1GGwOgiRlsWNV-dkA",
+      "publishedAt": "2023-10-04T17:01:53Z",
+      "content": "Vài nm trc, hãng xe in Trung Quc BYD ch t mc tiêu tn ti, nhng gi h li ang e da ngôi vng ca Tesla.BYD thành lp nm 1995, ban u ch sn xut pin. Tuy nhiên, tên tui ca h dn c bit n trong vài nm qua, nh làm… [+7820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "protos.com",
+      "title": "X user wants ‘deceptive’ Satoshi and Bitcoin accounts to lose checkmarks",
+      "description": "Two popular Bitcoin-related X (formerly Twitter) accounts should have their blue checkmarks removed for using “misleading and deceptive” identities, claims a prominent pro-Bitcoin account. According to @Pledditor, the two profiles are in breach of the platfor…",
+      "url": "https://biztoc.com/x/fcb65ac62d12dbce",
+      "urlToImage": "https://c.biztoc.com/p/fcb65ac62d12dbce/s.webp",
+      "publishedAt": "2023-10-04T17:00:08Z",
+      "content": "Two popular Bitcoin-related X (formerly Twitter) accounts should have their blue checkmarks removed for using misleading and deceptive identities, claims a prominent pro-Bitcoin account.According to … [+291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Tesla Stock Flashes Aggressive Buy Signal, Leading S&P 500, As Bulls Shrug Off Bad News",
+      "description": "appeared to shake off any lingering investor concern over its third-quarter delivery miss earlier in the week, with TSLA shares powering above a key level, leading the S&P 500 Wednesday. With Tesla bulls betting on a fourth-quarter rebound in deliveries with …",
+      "url": "https://biztoc.com/x/f348646a2be675d9",
+      "urlToImage": "https://c.biztoc.com/p/f348646a2be675d9/s.webp",
+      "publishedAt": "2023-10-04T17:00:07Z",
+      "content": "appeared to shake off any lingering investor concern over its third-quarter delivery miss earlier in the week, with TSLA shares powering above a key level, leading the S&amp;P 500 Wednesday.With Tesl… [+277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Ford Edges GM on Electric-Vehicle Sales. But Neither Can Touch Tesla",
+      "description": "Ford Motor delivered 500,504 vehicles in the U.S. in the third quarter, including 20,962 all-electric vehicles and 34,861 hybrids. There is mostly good news and some bad news in those figu...#fordmotor",
+      "url": "https://biztoc.com/x/2ad59fcdcdb55a04",
+      "urlToImage": "https://c.biztoc.com/p/2ad59fcdcdb55a04/og.webp",
+      "publishedAt": "2023-10-04T16:56:13Z",
+      "content": "Ford Motor delivered 500,504 vehicles in the U.S. in the third quarter, including 20,962 all-electric vehicles and 34,861 hybrids. There is mostly good news and some bad news in those figu...\r\n#fordm… [+42 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elperiodico.com"
+      },
+      "author": "Xavier Pérez",
+      "title": "El coche chino MG ZS vuelve a liderar el mercado automovilístico español en septiembre",
+      "description": "La apuesta de la marca china MG por España sigue surtiendo efecto. Su modelo MG ZS ha sido por segundo mes consecutivo el vehículo más vendido en España. Un hito histórico porque hasta el pasado mes de agosto ninguna marca china había ocupado ese puesto. El Z…",
+      "url": "https://www.elperiodico.com/es/economia/20231004/marca-china-mg-modelo-zs-lider-mercado-coches-espana-92927652",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/276eba90-5d51-4d8a-958a-eadf1761a946_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-10-04T16:55:27Z",
+      "content": "La apuesta de la marca china MG por España sigue surtiendo efecto. Su modelo MG ZS ha sido por segundo mes consecutivo el vehículo más vendido en España. Un hito histórico porque hasta el pasado mes … [+2866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investopedia"
+      },
+      "author": "Staff Author",
+      "title": "Markets Rise Midday as Weaker-Than-Expected Private Sector Hiring Eases Rate Hike Fears",
+      "description": "Markets were higher at midday on Wednesday, Oct. 4, 2023 as a report showing a slowdown in private sector hiring eased worries that a strong labor market would encourage the Fed to hike interest rates further.",
+      "url": "https://www.investopedia.com/markets-rise-midday-as-weaker-than-expected-private-sector-hiring-eases-rate-hike-fears-8347558",
+      "urlToImage": "https://www.investopedia.com/thmb/A4IOSM723b3JIEAbwfg7TrmRrug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1485489357-9cc10a96b1834c3c9f89975fa625855a.jpg",
+      "publishedAt": "2023-10-04T16:50:05Z",
+      "content": "<ul><li>U.S. equities were up at midday on Wednesday, Oct. 4, 2023 after a report showing a slowdown in private sector hiring eased concerns that labor market strength would encourage further interes… [+1535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": null,
+      "title": "Cariad: VW engagiert Softwareexperten von Tesla",
+      "description": "Lal Sanjay, der bei Rivian, Google und Tesla gearbeitet hat, soll helfen, die Probleme bei Cariad zu lösen. (Cariad, Elektroauto)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fcariad-vw-engagiert-softwareexperten-von-tesla-2310-178203.html&referer=https%3A%2F%2Ft.co%2Fdebfc0f44b",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T16:48:02Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cult of Mac"
+      },
+      "author": "Ed Hardy",
+      "title": "Tim Cook nets a quick $41 million from selling Apple shares",
+      "description": "Apple CEO Tim Cook turned some of his millions of Apple shares into cash.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+      "url": "https://www.cultofmac.com/832990/tim-cook-nets-a-quick-41-million-from-selling-apple-shares/",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2018/07/Tim-Cook-Money.jpg",
+      "publishedAt": "2023-10-04T16:45:11Z",
+      "content": "Apple CEO Tim Cook turned some of his millions of Apple shares into cash. He reportedly netted about $41 million from the sale.\r\nUnlike some CEOs, Cook owns only a minute share of the company he runs… [+1239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "Reuters",
+      "title": "Wall St gains after fresh jobs data, Treasury yields retreat",
+      "description": "(marketscreener.com) Wall Street's main indexes rose on\nWednesday after fresh data pointed to a cooling labor market,\nwhile a pullback in U.S. Treasury yields from their multi-year\nhighs also boosted investor sentiment.\n Before coming off their highs, the 30-…",
+      "url": "https://www.marketscreener.com/quote/index/NASDAQ-COMPOSITE-4944/news/Wall-St-gains-after-fresh-jobs-data-Treasury-yields-retreat-44984315/",
+      "urlToImage": "https://img.zonebourse.com/reuters/2017-01/2017-01-24T161839Z_2_LYNXMPED0N0QO_RTROPTP_2_USA-STOCKS.JPG",
+      "publishedAt": "2023-10-04T16:45:07Z",
+      "content": "(For a Reuters live blog on U.S., UK and European stock\r\nmarkets, click or type LIVE/ in a news window)\r\n* U.S. private payrolls growth slows sharply in Sept - ADP\r\n* Indexes up: Dow 0.23%, S&amp;P 0… [+2789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bolsamania.com"
+      },
+      "author": "María Campillo",
+      "title": "Tesla acelera en bolsa tras lanzar la versión más asequible del Model Y",
+      "description": "Tesla acaba de presentar su nuevo Model Y de tracción trasera (RWD) en Estados Unidos con un precio de partida de 43.990 dólares (que puede ser inferior gracias a las subvenciones estatales), convirtiéndolo en el modelo más barato disponible dentro de esta se…",
+      "url": "https://www.bolsamania.com/noticias/empresas/tesla-acelera-bolsa-lanzar-version-asequible-model-y--14873222.html",
+      "urlToImage": "https://img2.s3wfg.com/web/img/images_uploaded/4/1/ep_archivo_-_el_tesla_model_y.jpg",
+      "publishedAt": "2023-10-04T16:42:50Z",
+      "content": "Tesla acaba de presentar su nuevo Model Y de tracción trasera (RWD) en Estados Unidos con un precio de partida de 43.990 dólares (que puede ser inferior gracias a las subvenciones estatales), convirt… [+2078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Dallas Morning News"
+      },
+      "author": "Paul O'donnell",
+      "title": "45 Texans claim spots on Forbes’ 2023 ranking of richest Americans",
+      "description": "Forty-five Texans claimed spots on this year’s Forbes ranking of the 400 richest Americans, with the world’s wealthiest man also leading the Lone Star State’s...",
+      "url": "https://www.dallasnews.com/business/2023/10/04/45-texans-claim-spots-on-forbes-2023-ranking-of-richest-americans/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Mi7a_-jMC-jHR6i1Ma-xkdUL3Bw=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LAGZVZNR7NEUZN3AHG2NSUMQNI.jpg",
+      "publishedAt": "2023-10-04T16:41:23Z",
+      "content": "The number of rich Americans calling Texas home continues to rise.\r\nForty-five Texans claimed spots on this years Forbes ranking of the 400 richest Americans, with the worlds wealthiest man also lead… [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.abc.es"
+      },
+      "author": "(abc)",
+      "title": "Las marcas chinas se plantean fabricar sus automóviles en Europa y España",
+      "description": "Se trata del siguiente paso lógico. El mercado europeo encuentra –o se le obliga a encontrar– su apetito por la movilidad eléctrica , hasta el punto que, en el acumulado de agosto de 2023, uno de cada cinco coches matriculados es cero emisiones. Los fabricant…",
+      "url": "https://www.abc.es/motor/economia/marcas-chinas-plantean-fabricar-automoviles-europa-espana-20231004182327-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/motor/2023/10/04/chery-china_20231004181816-U20380642443kHC-1024x512@abc.jpg",
+      "publishedAt": "2023-10-04T16:39:21Z",
+      "content": "Se trata del siguiente paso lógico. El mercado europeo encuentra o se le obliga a encontrar su apetito por la movilidad eléctrica, hasta el punto que, en el acumulado de agosto de 2023, uno de cada c… [+4342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Europapress.es"
+      },
+      "author": null,
+      "title": "El Tesla Model Y fue el eléctrico más vendido en septiembre en España y domina el acumulado",
+      "description": "El Citroën C5 Aircross fue el más vendido en el noveno mes del segmento de híbridos enchufables, mientras que Lynk & Co 01 lidera el acumulado",
+      "url": "https://www.europapress.es/motor/sector-00644/noticia-tesla-model-fue-electrico-mas-vendido-septiembre-espana-domina-acumulado-20231004183829.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231004183829_1200.jpg",
+      "publishedAt": "2023-10-04T16:38:29Z",
+      "content": "El Citroën C5 Aircross fue el más vendido en el noveno mes del segmento de híbridos enchufables, mientras que Lynk &amp; Co 01 lidera el acumulado\r\n MADRID, 4 Oct. (EUROPA PRESS) - \r\n El Tesla Model … [+2550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fatosdesconhecidos.com.br"
+      },
+      "author": "Fatos Desconhecidos - Curiosidades",
+      "title": "Ex-executivo da Tesla cria projeto de lancha elétrica movida a energia solar",
+      "description": "A lancha, chamada R30, tem o foco em um desempenho alto com muita tecnologia e um espaço bem grande em todo seu casco. Esse conteúdo...",
+      "url": "https://www.fatosdesconhecidos.com.br/ex-executivo-da-tesla-cria-projeto-de-lancha-eletrica-movida-a-energia-solar/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T16:38:11Z",
+      "content": "A lancha, chamada R30, tem o foco em um desempenho alto com muita tecnologia e um espaço bem grande em todo seu casco. Esse conteúdo..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Basicthinking.de"
+      },
+      "author": "Fabian Peters",
+      "title": "Das waren die 10 meistgehandelten Aktien im September 2023",
+      "description": "Aktuell zieht es immer mehr Menschen an die Börse. Dennoch gilt: Jedes Investment birgt Risiken. In Kooperation mit Smartbroker präsentieren wir die zehn meistgehandelten Aktien im September 2023. Ein Überblick.  Wer sein Geld nur auf seinem Giro- oder Tagesg…",
+      "url": "https://www.basicthinking.de/blog/2023/10/04/aktien-kaufen-meistgehandelten-aktien-september-2023/",
+      "urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2023/10/aktien-kaufen-september-2023.jpg",
+      "publishedAt": "2023-10-04T16:30:02Z",
+      "content": "Aktuell zieht es immer mehr Menschen an die Börse. Dennoch gilt: Jedes Investment birgt Risiken. In Kooperation mit Smartbroker präsentieren wir die zehn meistgehandelten Aktien im September 2023. Ei… [+6857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "LiveOne, Inc.",
+      "title": "LiveOne Announces Record September Premium Membership Growth",
+      "description": "- Adds 51,000 New Premium Members with ARPU of $3.00+ per Month     - Year-Over-Year New Premium Memberships* Increased by Approximately 700,000,...",
+      "url": "https://www.globenewswire.com/news-release/2023/10/04/2754846/0/en/LiveOne-Announces-Record-September-Premium-Membership-Growth.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/813ba161-8e87-466d-80d4-a7754e2fc893",
+      "publishedAt": "2023-10-04T16:29:00Z",
+      "content": "- Adds 51,000 New Premium Members with ARPU of $3.00+ per Month\r\n- Year-Over-Year New Premium Memberships* Increased by Approximately 700,000, a 40% Increase \r\n - New Tesla Premium Members Increased … [+9528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Tesla Stock Flashes Aggressive Buy Signal, Leading S&P 500, As Bulls Shrug Off Bad News",
+      "description": "Tesla offered aggressive investors an early entry Wednesday. The post Tesla Stock Flashes Aggressive Buy Signal, Leading S&P 500, As Bulls Shrug Off Bad News appeared first on Investor's Business Daily.#tesla #bullsshrugoffbadnews",
+      "url": "https://biztoc.com/x/b3809e1529789b61",
+      "urlToImage": "https://c.biztoc.com/253/og.png",
+      "publishedAt": "2023-10-04T16:26:28Z",
+      "content": "Tesla offered aggressive investors an early entry Wednesday.The post Tesla Stock Flashes Aggressive Buy Signal, Leading S&amp;P 500, As Bulls Shrug Off Bad News appeared first on Investor's Business … [+85 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Julian van der Merwe",
+      "title": "Tesla Cybertruck shows off towing chops hauling SpaceX rocket engine at Starbase TX",
+      "description": "The Tesla Cybertruck has been spotted towing a SpaceX Raptor Vacuum engine around Starbase in Texas. Estimates put the Raptor engine at 3,500 pounds (1,588 kg). The Cybertruck's rear-wheel steering seems to come in handy when making tight manoeuvres while tow…",
+      "url": "https://www.notebookcheck.net/Tesla-Cybertruck-shows-off-towing-chops-hauling-SpaceX-rocket-engine-at-Starbase-TX.757285.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/cybertruck-towing-spacex-rocket-engine-teaser.jpg",
+      "publishedAt": "2023-10-04T16:21:00Z",
+      "content": "When Tesla launched the Cybertruck, it claimed the electric vehicle would have a towing capacity of 14,000 lbs (6350 kg) more than enough to tow even large caravans. The towing and hauling capabiliti… [+1224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Meneame.net"
+      },
+      "author": "salteado3",
+      "title": "Volkswagen y Fiat pausan la fabricación de coches eléctricos porque la gente no quiere coches eléctricos, quiere Tesla",
+      "description": "Las ventas de coches eléctricos a nivel mundial y en Europa siguen subiendo. En nuestro continente, las ventas de coches eléctricos en la primera mitad de 2023 crecieron un 17% con respecto a los seis primeros meses de 2022, según datos de Jato Dynamics. Y si…",
+      "url": "https://www.meneame.net/m/actualidad/volkswagen-fiat-pausan-fabricacion-coches-electricos-porque-no",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T16:20:39Z",
+      "content": "Alguno querrá Tesla, quiero decir, como quien quiere comprarse un iPhone, porque le sobra la guita y no tiene problemas."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "UAW Strike Overshadows Strong Q3 Deliveries",
+      "description": "On Monday, Tesla Inc TSLA reported its vehicle deliveries slowed down during the third quarter, raising concerns about flagging demand. Also on Monday, Tesla EV rival, Rivian Automotive RIVN topped quarterly delivery estimates as it more than doubled EV produ…",
+      "url": "https://biztoc.com/x/b915454811130987",
+      "urlToImage": "https://c.biztoc.com/p/b915454811130987/s.webp",
+      "publishedAt": "2023-10-04T16:12:08Z",
+      "content": "On Monday, Tesla Inc TSLA reported its vehicle deliveries slowed down during the third quarter, raising concerns about flagging demand. Also on Monday, Tesla EV rival, Rivian Automotive RIVN topped q… [+309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogautomobile.fr"
+      },
+      "author": "Ugo Missana",
+      "title": "Essai Road-Trip : BMW i7 xDrive60 – La limousine silencieuse d’autoroute",
+      "description": "Cet hiver, j’ai eu l’occasion d’essayer la BMW i7, la limousine électrique de la marque (l’essai est ici).…\nL’article Essai Road-Trip : BMW i7 xDrive60 – La limousine silencieuse d’autoroute est apparu en premier sur BlogAutomobile.",
+      "url": "https://blogautomobile.fr/essai-road-trip-bmw-i7-xdrive60-la-limousine-silencieuse-dautoroute-358666",
+      "urlToImage": "https://blogautomobile.fr/wp-content/uploads/2023/09/HD-BMW-i7-Munich-052-scaled.jpg",
+      "publishedAt": "2023-10-04T16:09:00Z",
+      "content": "Cet hiver, j’ai eu l’occasion d’essayer la BMW i7, la limousine électrique de la marque (l’essai est ici). J’étais curieux de voir si, sur un long trajet, la voiture se comportait aussi bien que lors… [+7769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Instapundit.com"
+      },
+      "author": "Glenn Reynolds",
+      "title": "GO GREEN! Largest EV Charging Station In World Powered By Diesel-Powered Generators. “The Harris R",
+      "description": "GO GREEN! Largest EV Charging Station In World Powered By Diesel-Powered Generators. “The Harris Ranch Tesla Supercharger station is an impressive beast. With 98 charging bays, the facility in Coalinga, California, is the largest charging station in the world…",
+      "url": "https://instapundit.com/609203/",
+      "urlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
+      "publishedAt": "2023-10-04T16:08:47Z",
+      "content": "GO GREEN! Largest EV Charging Station In World Powered By Diesel-Powered Generators. “The Harris Ranch Tesla Supercharger station is an impressive beast. With 98 charging bays, the facility in Coalin… [+234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Straits Research",
+      "title": "Straits Research: Force Sensor Market to Maintain Steady Growth with a 5.3% CAGR",
+      "description": "Industry 4.0 enhances production and industrial automation across multiple industry verticals in the modern day. Robotic operations, including deburring, grinding, polishing, and sanding, are enabled using force and torque detecting devices. Industry 4.0 enha…",
+      "url": "https://www.globenewswire.com/news-release/2023/10/04/2754811/0/en/Straits-Research-Force-Sensor-Market-to-Maintain-Steady-Growth-with-a-5-3-CAGR.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c25b8e5a-9a9f-499a-8eb6-76ff0d860959",
+      "publishedAt": "2023-10-04T15:50:00Z",
+      "content": "New York, United States, Oct. 04, 2023 (GLOBE NEWSWIRE) -- A force sensor is a device for estimating the amount of force exerted on an object. Finding the amount of fluctuation in the resistance valu… [+6395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Alphafreepress.gr"
+      },
+      "author": "Ευτυχία Παπούλια",
+      "title": "Υπερτρένο Ευρώπη: Η ταχύτητα ρεκόρ που θα ταξιδεύει",
+      "description": "Η πολωνική Nevomo δοκιμάζει ένα νέο τρένο μαγνητικής αιώρησης που ταξιδεύει έως και 35 τοις εκατό πιο γρήγορα από ένα συμβατικής τεχν",
+      "url": "https://www.alphafreepress.gr/2023/10/04/kosmos/ypertreno-eyropi-i-taxytita-rekor-pou-tha-taksideyei/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2023/10/tren-o-scaled.jpg",
+      "publishedAt": "2023-10-04T15:43:31Z",
+      "content": "Nevomo 35 , . Deutsche Bahn . . .  , . ,  350 ./, .\r\n , Nevomo, , . , 550 ./. Magrail ( Magnet Railway), .\r\n“The company #Nevomo is working on a train that will easily push the ICE onto the siding”. … [+339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Taylor, Contributor, \n Michael Taylor, Contributor\n https://www.forbes.com/sites/michaeltaylor/",
+      "title": "French CO2 Tariffs Would Send US Pickup Prices Beyond $100,000",
+      "description": "France’s CO2 tariffs applied in America would push the base price of the best-selling Ford F-Series from $37,000 to $100,106, the second-ranked Chevrolet Silverado fro...",
+      "url": "https://www.forbes.com/sites/michaeltaylor/2023/10/04/french-co2-tariffs-would-send-us-pickup-prices-beyond-100000/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/651d850c406b90ae680e6c6f/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-10-04T15:42:22Z",
+      "content": "America's best-selling vehicle, the Ford F-Series, would leap beyond $100,000 if French CO2 ... [+] emissions tariffs were applied here. Photo: JEFF KOWALSKY / AFP.\r\nAFP via Getty Images\r\nAmericas lo… [+3633 chars]"
+    },
+    {
+      "source": {
+        "id": "t3n",
+        "name": "T3n"
+      },
+      "author": "Niclas von Hobe",
+      "title": "Mit diesem Game hat Elon Musk gelernt, ein guter CEO zu sein",
+      "description": "Trotz seines beachtlichen Firmen-Portfolios hat Elon Musk offenbar noch Zeit für Handyspiele. Besonders das Strategiespiel Polytopia des Stockholmer Studios Midjiwan hat es dem Tesla-Chef angetan.weiterlesen auf t3n.de",
+      "url": "https://t3n.de/news/game-elon-musk-gelernt-guter-ceo-1580094/",
+      "urlToImage": "https://t3n.de/news/wp-content/uploads/2023/08/shutterstock_2318800313.jpg",
+      "publishedAt": "2023-10-04T15:30:53Z",
+      "content": "Seit Anfang September gewährt Elon Musk in seiner neuen Biografie Einblicke in sein Leben. Auf 832 Seiten beleuchtet Biograf Walter Isaacson nicht nur den Karriereweg und die Business-Entscheidungen … [+3500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "Nasdaq, S&P 500 rise after fresh jobs data, Treasury yields retreat",
+      "description": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., September 26, 2023. REUTERS/Brendan McDermid/File Photo Acquire Licensing Rights Oct 4 (Reuters) - The S&P 500 and the Nasdaq rose on Wednesday after fresh data pointed to…",
+      "url": "https://biztoc.com/x/15ee002ece218a7a",
+      "urlToImage": "https://c.biztoc.com/p/15ee002ece218a7a/og.webp",
+      "publishedAt": "2023-10-04T15:30:27Z",
+      "content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., September 26, 2023. REUTERS/Brendan McDermid/File Photo Acquire Licensing RightsOct 4 (Reuters) - The S&amp;P 5… [+301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "Softbank's CEO says you'll end up like a mindless goldfish if you don't get on board with his AI",
+      "description": "The kind of superintelligent A.I. that has prompted doomsday warnings from some of the world’s most prominent tech minds will be with us within a decade, according to SoftBank’s founder and CEO—who compared those resisting the technology to “goldfish.” Speaki…",
+      "url": "https://biztoc.com/x/e09da083a369a424",
+      "urlToImage": "https://c.biztoc.com/p/e09da083a369a424/s.webp",
+      "publishedAt": "2023-10-04T15:28:05Z",
+      "content": "The kind of superintelligent A.I. that has prompted doomsday warnings from some of the worlds most prominent tech minds will be with us within a decade, according to SoftBanks founder and CEOwho comp… [+282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motoryracing.com"
+      },
+      "author": "Alejandro Delgado",
+      "title": "Tesla introduce un nuevo sistema de seguridad en sus modelos",
+      "description": "La marca de Elon Musk da un paso al frente en materia de seguridad y garantiza la máxima visibilidad.Tesla introduce un nuevo sistema de seguridad en sus modelos",
+      "url": "https://www.motoryracing.com/coches/noticias/tesla-nuevo-sistema-seguridad/",
+      "urlToImage": "https://img.motoryracing.com/noticias/portada/37000/37170-s3.jpg",
+      "publishedAt": "2023-10-04T15:27:00Z",
+      "content": "La seguridad al volante es algo que siempre ha estado trabajando en muchas marcas. Es por ello, que la funcionalidad de cada coche ha sido esencial para que puedan establecer nuevas etapas profesiona… [+2005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Nassim Chentouf",
+      "title": "Le Tesla Cybertruck accélère comme une fusée, sa vitesse est impressionnante",
+      "description": "Une vidéo nous dévoile le Cybertruck de Tesla au démarrage dans la circulation en ville. Et son accélération est renversante, le véhicule démarre comme une fusée lorsque le feu passe du vert au rouge !\nL’article Le Tesla Cybertruck accélère comme une fusée, s…",
+      "url": "https://www.tomsguide.fr/le-tesla-cybertruck-accelere-comme-une-fusee-sa-vitesse-est-impressionnante/",
+      "urlToImage": "https://www.tomsguide.fr/content/uploads/sites/2/2023/07/cybertruck.jpeg",
+      "publishedAt": "2023-10-04T15:16:49Z",
+      "content": "Une vidéo nous dévoile le Cybertruck de Tesla au démarrage dans la circulation en ville. Et son accélération est renversante, le véhicule démarre comme une fusée lorsque le feu passe du vert au rouge… [+2045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AutoExpress"
+      },
+      "author": "Alastair Crooks",
+      "title": "Kia EV family to grow with new EV3 and a Tesla Model 3 rivalling EV4 saloon",
+      "description": "The upcoming Kia EV Day will see the launch of a sleek saloon and a family crossover",
+      "url": "https://www.autoexpress.co.uk/kia/361130/kia-ev-family-grow-new-ev3-and-tesla-model-3-rivalling-ev4-saloon",
+      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1696432204/autoexpress/2023/10/Kia EV day teaser_mzb6fb.jpg",
+      "publishedAt": "2023-10-04T15:14:17Z",
+      "content": "Kias rapidly expanding group of all-electric EV-badged cars will soon gain a few more members with the Korean firm hinting at several new reveals at its EV Day on 12 October. \r\nThe shadowy teaser ima… [+1298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "barrons.com",
+      "title": "Ford Edges GM on Electric-Vehicle Sales. But Neither Can Touch Tesla",
+      "description": "Ford Motor delivered 500,504 vehicles in the U.S. in the third quarter, including 20,962 all-electric vehicles and 34,861 hybrids. There is mostly good news and some bad news in those figu...#fordmotor",
+      "url": "https://biztoc.com/x/f259fe7ee061fe21",
+      "urlToImage": "https://c.biztoc.com/p/f259fe7ee061fe21/s.webp",
+      "publishedAt": "2023-10-04T15:13:24Z",
+      "content": "Ford Motor delivered 500,504 vehicles in the U.S. in the third quarter, including 20,962 all-electric vehicles and 34,861 hybrids. There is mostly good news and some bad news in those figu...\r\n#fordm… [+42 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "U.S. Department of Energy",
+      "title": "Scientists Illuminate The Mechanics of Solid-State Batteries",
+      "description": "As current courses through a battery, its materials erode over time. Mechanical influences such as stress and strain affect this trajectory, although their impacts on battery efficacy and longevity are not fully understood. A team led by researchers at the De…",
+      "url": "https://cleantechnica.com/2023/10/04/scientists-illuminate-the-mechanics-of-solid-state-batteries/",
+      "urlToImage": "http://cleantechnica.com/files/2023/10/SSB-image.jpg",
+      "publishedAt": "2023-10-04T15:13:17Z",
+      "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nAs current courses through a battery, its materials erode over time. Mechanical influences such as stress and… [+5381 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Chloe Taylor",
+      "title": "Softbank's CEO says you'll end up like a mindless goldfish if you don't get on board with his AI",
+      "description": "“Take advantage of it or be left behind,” warned Masayoshi Son, whose early bet on Alibaba built his reputation as tech visionary.",
+      "url": "https://fortune.com/2023/10/04/softbank-masayoshi-son-ai-artificial-general-intelligence/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1716324635-e1696427945626.jpg?resize=1200,600",
+      "publishedAt": "2023-10-04T15:09:15Z",
+      "content": "The kind of superintelligent A.I. that has prompted doomsday warnings from some of the worlds most prominent tech minds will be with us within a decade, according to SoftBanks founder and CEOwho comp… [+4685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": null,
+      "title": "Gesundheitsministerin: Kein Unternehmen wird intensiver kontrolliert als Tesla",
+      "description": "Die Brandenburger Landesregierung weist Vorwürfe einer unzureichenden Kontrolle der Tesla-Fabrik zurück. Es gebe keine auffällige Häufung von Arbeitsunfällen. (Gigafactory Berlin, Elektroauto)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fgesundheitsministerin-kein-unternehmen-wird-intensiver-kontrolliert-als-tesla-2310-178199.html&referer=https%3A%2F%2Ft.co%2Fc2b56a37c3",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T15:05:03Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Ford Edges GM on Electric-Vehicle Sales. But Neither Can Touch Tesla.",
+      "description": "Ford delivers 500,504 vehicles in the U.S., including 20,962 all-electric vehicles, in the third quarter.",
+      "url": "https://www.barrons.com/articles/ford-sales-electric-vehicles-tesla-gm-2d60071c",
+      "urlToImage": "https://images.barrons.com/im-63372436/social",
+      "publishedAt": "2023-10-04T15:05:02Z",
+      "content": "Ford Motor\r\n delivered 500,504 vehicles in the U.S. in the third quarter, including 20,962 all-electric vehicles and 34,861 hybrids. There is mostly good news and some bad news in those figures for i… [+2027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "Grimes Just Sued Elon Musk Over Their Kids",
+      "description": "Maury! Maury! Claire \"Grimes\" Boucher is suing ex-boyfriend and Tesla CEO Elon Musk in an attempt to \"establish parental relationship\" with the three children they have together. As The San Francisco Standard reports, Boucher filed the petition on September 2…",
+      "url": "https://futurism.com/the-byte/grimes-just-sued-elon-musk-over-their-kids",
+      "urlToImage": "https://wp-assets.futurism.com/2023/10/grimes-just-sued-elon-musk-over-their-kids.jpg",
+      "publishedAt": "2023-10-04T15:04:15Z",
+      "content": "Things are getting messy.\r\nMaury! Maury!\r\nClaire \"Grimes\" Boucher is suing ex-boyfriend and multihyphenate CEO Elon Musk in an attempt to \"establish parental relationship\" with the three children the… [+2376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Environmentenergyleader.com"
+      },
+      "author": "Sydney Leimbach",
+      "title": "Deloitte Report Emphasizes Critical Role of Energy Storage in Decarbonizing Electric Grid",
+      "description": "The report provides suggestions annd potential business models for electric companies as they adapt to a decentralized, renewable energy-based grid.",
+      "url": "https://www.environmentenergyleader.com/2023/10/deloitte-report-emphasizes-critical-role-of-energy-storage-in-decarbonizing-electric-grid/",
+      "urlToImage": "https://www.environmentenergyleader.com/wp-content/uploads/2023/10/Deloitte-renewable-energy-storage-grid-report.jpg",
+      "publishedAt": "2023-10-04T15:04:06Z",
+      "content": "In a recent study, the Deloitte Research Center for Energy and Industrials analyzed the growth of energy storage amidst a grid shifting to renewable energy. The report offers a framework for expandin… [+4906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GlobeNewswire"
+      },
+      "author": "Prophecy Market insights",
+      "title": "Smart Mobility Market is estimated to be US$ 240.65 billion by 2030 with a CAGR of 19.8% during the forecast period – By PMI",
+      "description": "Prophecy Market Insights latest research report on the Smart Mobility Market provides a comprehensive analysis of the current market scenario, growth opportunities, challenges, and emerging trends. The report offers insights into the market's size and share, …",
+      "url": "https://www.globenewswire.com/news-release/2023/10/04/2754781/0/en/Smart-Mobility-Market-is-estimated-to-be-US-240-65-billion-by-2030-with-a-CAGR-of-19-8-during-the-forecast-period-By-PMI.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/20cb1ee4-d3e9-4331-b534-eae221b5f383",
+      "publishedAt": "2023-10-04T15:02:00Z",
+      "content": "Covina, Oct. 04, 2023 (GLOBE NEWSWIRE) -- What are Smart Mobility? How big its Smart Mobility Market?\r\nSmart mobility refers to a concept that combines various transportation modes and services with … [+6521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skift"
+      },
+      "author": "Skift",
+      "title": "Uber CEO Dara Khosrowshahi: ‘Super Apps,’ AI and Uber Teens — Full Video",
+      "description": "Uber CEO Dara Khosrowshahi thinks Uber's next phase of growth will come from scaling and product innovation. Hint: Uber Teens and Uber Freight? -Srividya Kalyanaraman",
+      "url": "https://skift.com/2023/10/04/uber-ceo-dara-khosrowshahi-super-apps-ai-and-uber-teens-full-video/",
+      "urlToImage": "https://skift.com/wp-content/uploads/2023/10/1200x800px-thumbnail-Dara-Khosrowshahi_RA.png",
+      "publishedAt": "2023-10-04T14:58:06Z",
+      "content": "CEO Dara Khosrowshahi took the stage at Skift Global Forum in New York City last week and discussed Ubers high burn rate, its use of artificial intelligence, and the United Kingdom as a test market.\r… [+32781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dinheirama.com"
+      },
+      "author": "Reuters",
+      "title": "S&P 500 e Nasdaq sobem após novos dados de emprego nos EUA",
+      "description": "O índice de tecnologia Nasdaq Composite avançava 0,59%, a 13.136,08 pontos.\n------ Este artigo foi escrito por Reuters. Este artigo apareceu originalmente no site Dinheirama.A reprodução deste texto só pode ser realizada mediante expressa autorização de seu a…",
+      "url": "https://dinheirama.com/sp-500-e-nasdaq-sobem-apos-novos-dados-de-emprego-nos-eua/",
+      "urlToImage": "https://dinheirama.com/wp-content/uploads/2023/10/20231004-wall-street-1.jpg",
+      "publishedAt": "2023-10-04T14:56:00Z",
+      "content": "10O S&amp;P 500 e o Nasdaq subiam nesta quarta-feira, depois que novos dados apontaram para um esfriamento do mercado de trabalho nos Estados Unidos, enquanto um recuo nos rendimentos dos Treasuries … [+1233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "S&P 500 e Nasdaq sobem após novos dados de emprego nos EUA, rendimentos dos Treasuries recuam",
+      "description": "O S&P 500 e o Nasdaq subiam nesta quarta-feira, depois que novos dados apontaram para um ...",
+      "url": "https://www.terra.com.br/economia/dinheiro-em-acao/sp-500-e-nasdaq-sobem-apos-novos-dados-de-emprego-nos-eua-rendimentos-dos-treasuries-recuam,eac655e645533fbe8ac257dc757096e5zsl297ki.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-10-04T14:55:56Z",
+      "content": "O S&amp;P 500 e o Nasdaq subiam nesta quarta-feira, depois que novos dados apontaram para um esfriamento do mercado de trabalho nos Estados Unidos, enquanto um recuo nos rendimentos dos Treasuries em… [+1348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "author": "Mark Harris",
+      "title": "2023 Climate Tech Companies to Watch: Commonwealth and its compact tokamak",
+      "description": "Commonwealth Fusion System’s approach to fusion builds on decades of research—and comes after decades of disappointment within the industry. Yes, the company’s first commercial reactor is still nearly 10 years away, but if it works, the climate benefits will …",
+      "url": "https://www.technologyreview.com/2023/10/04/1080113/2023-climate-tech-companies-commonwealth-compact-tokamak-carbon-free-electricity-fusion-reactor-electromagents/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/10/CFS-campus2_upres.jpg?resize=1200,600",
+      "publishedAt": "2023-10-04T14:54:00Z",
+      "content": "In 2021 the company announced the demonstration of a 20-Tesla electromagnetthe most powerful of its type ever made. And last December, construction of the SPARC tokamak commenced at Commonwealths new… [+1108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Alessandro Di Lorenzo",
+      "title": "Kombi elétrica da VW se transforma em homenagem a Scooby-Doo; veja",
+      "description": "A Concept Motorsport, da Indonésia, resolveu realizar algumas modificações na ID.Buzz da Volkswagen; confira o resultado!\nO post Kombi elétrica da VW se transforma em homenagem a Scooby-Doo; veja apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/10/04/carros-e-tecnologia/kombi-eletrica-da-vw-se-transforma-em-homenagem-a-scooby-doo-veja/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/10/Scooby-doo-1.jpg",
+      "publishedAt": "2023-10-04T14:52:19Z",
+      "content": "A ID.Buzz, a van elÃ©trica da Volkswagen inspirada na clÃ¡ssica Kombi, continua fazendo sucesso. LanÃ§ado globalmente no ano passado, o modelo superou a Tesla como o veÃ­culo elÃ©trico mais popular d… [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Donanimhaber.com"
+      },
+      "author": "Barış Cankı",
+      "title": "Elektrikli araç şarj ücretlerinde son durum ne?",
+      "description": "Elektrikli araçları şarj etme maliyeti, alınan enerjinin kWh başına ücretine göre değişiklik gösteriyor. Biz de Ekim 2023 itibarıyla şarj ücretlerindeki son durumu sizler için derledik.",
+      "url": "https://www.donanimhaber.com/2023-yili-elektrikli-arac-sarj-ucretlerinde-son-durum-ne--169431",
+      "urlToImage": "https://www.donanimhaber.com/images/images/haber/169431/src_340x1912x2023-yili-elektrikli-arac-sarj-ucretlerinde-son-durum-ne.jpg",
+      "publishedAt": "2023-10-04T14:51:37Z",
+      "content": "Dünya genelinde olduu gibi ülkemizde de elektrikli otomobil kullanm gün geçtikçe artyor. Elbette bu durum arj istasyonlarnn saysn da artryor. Son verilere göre Türkiye'de 6.633 adedi AC, 2.228 adedi … [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Businessinsider.de"
+      },
+      "author": "Katharina Kotrba",
+      "title": "Tipps von Cathie Wood: Das rät die Profi-Investorin Startups für die Finanzierung",
+      "description": "Die bekannte Tech-Investorin Cathie Wood verrät im Interview mit Gründerszene, wie Startups sich auf die Zukunft vorbereiten sollten.",
+      "url": "https://www.businessinsider.de/gruenderszene/business/tipps-von-cathie-wood-das-raet-die-profi-investorin-startups-fuer-die-finanzierung/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/10/IMG_3696-4-e1696424465647.jpg?ver=1696424468",
+      "publishedAt": "2023-10-04T14:37:48Z",
+      "content": "Die bekannte Tech-Investorin Cathie Wood verrät im Gespräch mit Gründerszene, wie Startups sich auf die Zukunft vorbereiten sollten. Das sind ihre Tipps. Die Tech-Investorin Cathie Wood ist besonders… [+9538 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT en Español\n , RT en Español",
+      "title": "Expareja de Musk lo demanda por derechos parentales de tres de sus hijos",
+      "description": "La denuncia llega unas semanas después de que la cantante Grimes le suplicara al director ejecutivo de Tesla y SpaceX que le permitiera ver a uno de sus hijos que tienen en común.",
+      "url": "https://actualidad.rt.com/actualidad/482036-musk-enfrenta-demanda-relacion-parental",
+      "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.10/article/651d555e59bf5b505776fd62.jpg",
+      "publishedAt": "2023-10-04T14:32:29Z",
+      "content": "La cantante Claire Elise Boucher, más conocida como Grimes, ha interpuesto una demanda contra el magnate Elon Musk con el fin de establecer una \"relación parental\" con los hijos que tienen en común, … [+983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "STAN CHOE",
+      "title": "Stock market today: Wall Street steadies after selloff as reports suggest US economy may be cooling",
+      "description": "Wall Street is holding steadier in mixed trading Wednesday after reports suggested the U.S. economy may be cooling.",
+      "url": "https://www.startribune.com/stock-market-today-wall-street-steadies-after-selloff-as-reports-suggest-us-economy-may-be-cooling/600309638/",
+      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1696269919",
+      "publishedAt": "2023-10-04T14:30:09Z",
+      "content": "NEW YORK Wall Street is holding steadier in mixed trading Wednesday after reports suggested the U.S. economy may be cooling.\r\nThe S&amp;P 500 was 0.1% higher in morning trading, coming off a 1.4% tum… [+4824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Fred Lambert",
+      "title": "SpaceX is already using Tesla Cybertruck at Starbase",
+      "description": "SpaceX is already using a Tesla Cybertruck in its operations at StarBase as the electric pickup truck has been spotted towing a rocket engine.\n more…\nThe post SpaceX is already using Tesla Cybertruck at Starbase appeared first on Electrek.",
+      "url": "https://electrek.co/2023/10/04/spacex-already-using-tesla-cybertruck-starbase/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/10/Screenshot-2023-10-04-at-8.26.49-AM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-10-04T14:14:44Z",
+      "content": "SpaceX is already using a Tesla Cybertruck in its operations at StarBase as the electric pickup truck has been spotted towing a rocket engine.\r\nEarlier this week, we reported on seeing a Tesla Cybert… [+1408 chars]"
+    },
+    {
+      "source": {
+        "id": "der-tagesspiegel",
+        "name": "Der Tagesspiegel"
+      },
+      "author": "Thorsten Metzner",
+      "title": "Nach Vorwürfen gegen Tesla: Gesundheitsministerium sieht keine gravierenden Arbeitsschutzdefizite",
+      "description": "Im Landtag berichtet das Gesundheitsministerium über Tesla. Ursula Nonnemacher (Grüne) verwahrt sich gegen die Vorwürfe, der Arbeitsschutz in dem Werk würde nicht eingehalten.",
+      "url": "https://www.tagesspiegel.de/berlin/nach-vorwurfen-gegen-tesla-fabrik-gesundheitsministerium-sieht-keine-gravierenden-arbeitsschutzdefizite-10569901.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/tesla-gigafactory23/alternates/BASE_16_9_W1400/tesla-gigafactory.jpeg",
+      "publishedAt": "2023-10-04T14:14:17Z",
+      "content": "Brandenburgs Gesundheitsministerin Ursula Nonnemacher (Grüne) hat Vorwürfe des Magazins Stern als falsch bezeichnet, denen zufolge die zuständige Landesbehörde angeblich Arbeitsschutz-Missstände in d… [+4606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "forbes.com",
+      "title": "Li Auto’s Strong Delivery Streak Continues. What’s Next For The Stock?",
+      "description": "Chinese luxury electric vehicle maker Li Auto stock reported a strong set of delivery numbers for September, driven by demand for its vehicles which include gasoline generators to extend the EVs driving range. Overall deliveries stood at a record 36,000 units…",
+      "url": "https://biztoc.com/x/6d39c4ef2601ab9e",
+      "urlToImage": "https://c.biztoc.com/p/6d39c4ef2601ab9e/s.webp",
+      "publishedAt": "2023-10-04T14:14:09Z",
+      "content": "Chinese luxury electric vehicle maker Li Auto stock reported a strong set of delivery numbers for September, driven by demand for its vehicles which include gasoline generators to extend the EVs driv… [+263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HackRead"
+      },
+      "author": "Waqas",
+      "title": "Sony Data Breach via MOVEit Vulnerability Affects Thousands in US",
+      "description": "By Waqas\nThe data breach occurred from May 28th to May 30th, 2023, and the stolen data included \"names and other personal identifiers combined with Social Security Numbers (SSNs).\"\nThis is a post from HackRead.com Read the original post: Sony Data Breach via …",
+      "url": "https://www.hackread.com/sony-data-breach-moveit-vulnerability-us/",
+      "urlToImage": "https://www.hackread.com/wp-content/uploads/2023/10/sony-data-breach-moveit-vulnerability-us.jpg",
+      "publishedAt": "2023-10-04T14:12:46Z",
+      "content": "Sony has confirmed a data breach due to a MOVEit vulnerability, which has impacted 6791 of its current and former employees or their family members.\r\nSony Interactive Entertainment LLC (SIE) has conf… [+3167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CleanTechnica"
+      },
+      "author": "Dr. Maximilian Holland",
+      "title": "Norway’s EVs At A Record 93% Share",
+      "description": "September saw plugin EVs at a record 93% share of Norway’s auto market, up from 89.1% year on year. The gains in share came from erosion of combustion vehicle volume, rather than growth in EV volume. Overall auto volume was 10,342 units, down almost 30% YoY. …",
+      "url": "https://cleantechnica.com/2023/10/04/norways-evs-at-a-record-93-share/",
+      "urlToImage": "http://cleantechnica.com/files/2023/10/September-2023-Norway-Passenger-Auto-Registrations-WD.png",
+      "publishedAt": "2023-10-04T14:06:17Z",
+      "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nSeptember saw plugin EVs at a record 93% share of Norways auto market, up from 89.1% year on year. The gains … [+6576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Shannon Thaler",
+      "title": "GM braces for costs of UAW strike with $6B credit line",
+      "description": "General Motors set up a $6 billion line of credit as it braces for the costs the ongoing United Auto Workers strike, a Securities and Exchange Commission filing showed. The Detroit-based Chevy-maker’s 364-day revolving credit line will mature on Oct. 1, 2024,…",
+      "url": "https://nypost.com/2023/10/04/gm-braces-for-costs-of-uaw-strike-with-6b-credit-line/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-i38r2d9b3-1696425679863.jpg?quality=75&strip=all&1696411311&w=1024",
+      "publishedAt": "2023-10-04T14:03:31Z",
+      "content": "General Motors set up a $6 billion line of credit as it braces for the costs the ongoing United Auto Workers strike, a Securities and Exchange Commission filing showed.\r\nThe Detroit-based Chevy-maker… [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "PRNewswire",
+      "title": "TDK Ventures invests in Peak Energy to advance sodium-ion energy storage solutions",
+      "description": "(marketscreener.com) \n\nPeak Energy is accelerating sodium-ion battery technology to the domestic energy storage system market, targeting the country's growing need for 600 GWh of energy storage by 2030SIBs offer compelling benefits with the potential to be mo…",
+      "url": "https://www.marketscreener.com/quote/stock/TDK-CORPORATION-120787585/news/TDK-Ventures-invests-in-Peak-Energy-to-advance-sodium-ion-energy-storage-solutions-44983062/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-04T14:01:11Z",
+      "content": "<ul><li>Peak Energy is accelerating sodium-ion battery (SIB) technology to the domestic energy storage system (ESS) market, targeting the country's growing need for 600 GWh of energy storage by 2030<… [+7518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rg.ru"
+      },
+      "author": null,
+      "title": "Tesla выиграла у клиентов, обвинявших компанию в обманутых ожиданиях от \"автопилота\"",
+      "description": "Случился важный судебный прецедент в истории противостояния Tesla и её технологий автопилота и тех, кто считает, что Full Self-Driving не имеет права на такое название, так как не совсем соответствует функционалу полного автономного вождения. В споре пока выи…",
+      "url": "https://rg.ru/2023/10/04/tesla-vyigrala-u-klientov-obviniavshih-kompaniiu-v-obmanutyh-ozhidaniiah-ot-avtopilota.html",
+      "urlToImage": "https://cdnstatic.rg.ru/uploads/images/2023/10/04/2023-10-04_135148_075.jpg",
+      "publishedAt": "2023-10-04T14:00:25Z",
+      "content": "Tesla , , \"\". .\r\n , \" \" Tesla , , .\r\n , Tesla, , Full Self-Driving , . , , , , .\r\n Tesla , \"\", . , , , : Tesla , - Full Self-Driving, . , ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "seattletimes.com",
+      "title": "Donald Trump falls off Forbes 400 richest Americans list amid fraud trial over inflated net worth",
+      "description": "Topping the list was Elon Musk, who maintained his $251 billion net worth. The Tesla founder and Twitter/X owner was $90 billion ahead of Amazon founder Jeff Bezos, who is No. 2 at $161 billion.#elonmusk #tesla #amazon #jeffbezos",
+      "url": "https://biztoc.com/x/2cea426f6a015b07",
+      "urlToImage": "https://c.biztoc.com/p/2cea426f6a015b07/s.webp",
+      "publishedAt": "2023-10-04T14:00:08Z",
+      "content": "Topping the list was Elon Musk, who maintained his $251 billion net worth. The Tesla founder and Twitter/X owner was $90 billion ahead of Amazon founder Jeff Bezos, who is No. 2 at $161 billion.\r\n#el… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/",
+      "title": "Li Auto’s Strong Delivery Streak Continues. What’s Next For The Stock?",
+      "description": "Chinese luxury electric vehicle maker Li Auto stock reported a strong set of delivery numbers for September, driven by demand for its vehicles which include gasoline g...",
+      "url": "https://www.forbes.com/sites/greatspeculations/2023/10/04/li-autos-strong-delivery-streak-continues-whats-next-for-the-stock/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/651cd77e319ee4342360cf00/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-10-04T14:00:00Z",
+      "content": "SHANGHAI, CHINA - SEPTEMBER 20, 2023 - A citizen passes an Li Auto store in Shanghai, China, ... [+] September 20, 2023. (Photo by Costfoto/NurPhoto via Getty Images)\r\nNurPhoto via Getty Images\r\nChin… [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener with dpa-AFX Analyser",
+      "title": "VOLVO B : UBS reiterates its Sell rating",
+      "description": "(marketscreener.com) UBS's analyst Hemal Bhundia maintains his Sell rating on the stock. The target price is unchanged and still at SEK 213.https://www.marketscreener.com/quote/stock/AB-VOLVO-6492152/news/VOLVO-B-UBS-reiterates-its-Sell-rating-44983009/?utm_m…",
+      "url": "https://www.marketscreener.com/quote/stock/AB-VOLVO-6492152/news/VOLVO-B-UBS-reiterates-its-Sell-rating-44983009/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-10-04T13:58:02Z",
+      "content": "Tesla, Inc. : Earnings report highlights\r\nJuly 20, 2023 at 10:15 am EDT"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "u.today",
+      "title": "Elon Musk's Tweet Sparks XRP Army's Enthusiasm: Details",
+      "description": "Social media post published by X boss Elon Musk caused enthusiastic response by crypto community, and XRP army in particular In a recent post on the social media platform X (known as Twitter before Elon Musk began rebranding this year), tech billionaire and X…",
+      "url": "https://biztoc.com/x/b2294eedd8843100",
+      "urlToImage": "https://c.biztoc.com/p/b2294eedd8843100/s.webp",
+      "publishedAt": "2023-10-04T13:56:07Z",
+      "content": "Social media post published by X boss Elon Musk caused enthusiastic response by crypto community, and XRP army in particularIn a recent post on the social media platform X (known as Twitter before El… [+281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "US car sales climb despite strike and rising interest rates - CNN",
+      "description": "US car sales climb despite strike and rising interest ratesCNN GM reports 3rd-quarter gain of 21% with pickups, new SUVs driving salesDetroit Free Press US new vehicle sales jump in third quarter as UAW strike casts shadowYahoo Finance Tesla Bull Shrugs Off C…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171950289",
+      "urlToImage": null,
+      "publishedAt": "2023-10-04T13:54:05Z",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Leon Poultney",
+      "title": "Tesla Model Y drops to lowest-ever price, but how long will you have to wait?",
+      "description": "Tesla introduces a Model Y RWD model with a base price of only $43,990",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-model-y-drops-to-lowest-ever-price-but-how-long-will-you-have-to-wait",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fmt6UbP95NRzrfWSQkCUX8-1200-80.jpg",
+      "publishedAt": "2023-10-04T13:54:03Z",
+      "content": "Despite reports that Tesla experienced a bigger-than-expected drop in third-quarter deliveries, causing its share price to fall slightly, the company has hit back with the cheapest Model Y to date.\r\n… [+2154 chars]"
+    }
+  ]
+}
